@@ -20,7 +20,7 @@ const reducer = (state = initialState, action) => {
           name: action.placeName,
           image: {
             uri:
-              "https://c1.staticflickr.com/5/4096/4744241983_34023bf303_b.jpg"
+              "https://78.media.tumblr.com/88e6d69b0a4e814c9e11064b6d75ec42/tumblr_om8suopKHb1uovx5no1_500.png"
           }
         })
       };
