@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-a859323a33e83b4e0d1a6a2e7d6ae1b8ddc324e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-23789a4449e42bbe4463438712addd1a31105241.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-000e2b687484be3b1aeed4a8e5dcfb9d925fe01b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-d22b9db7a13dacce9db53215feeaffff9024289c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\jsr305-3.0.0-4171d6a7925c4c689704420ed74049bb305d2ad4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\AppData\Local\Android\Sdk\platforms\android-25\android.jar"
+        revision="25.0.1"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\android-fd3f62e0ddb9364451e029215a33fb8237150136.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-1b68fdc220ba7668458eb280492dad446527096f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\bolts-tasks-1.4.0-d8284f51a047889f473caa70c957be14f7804444.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-25.3.1-18d1f3a5fd0c56f899c9559056f960324b104c1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\staticlayout-proxy-1.0-161a9d2c858a0084326c51ac158803e68da1f338.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\AppData\Local\Android\Sdk\platforms\android-25\optional\org.apache.http.legacy.jar"
+        revision="25.0.1"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\org.apache.http.legacy-96e50ae130a9f159c0afea19bf621a4cb6dad3ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\exploded-aar\com.aurelhubert\ahbottomnavigation\2.0.6\jars\classes.jar"
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-a11b2eea8761cad5673b3a9ca58d8870e835a157.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-5395bee0e6f9281bc4a1dc9ddf0d56931c9c055a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu-toolbar\1.5.4\jars\classes.jar"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-b904b359697b71383ff2eb73091eeeaddd9e4a82.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\exploded-aar\testproject\react-native-vector-icons\unspecified\jars\classes.jar"
+        revision="25.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-846ed1d20940699690a30acc5c3ff54b8795fd17.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\javax.inject-1-2cfe487fa9e2248210b87c6497de9b62168bbe80.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-3206185c5956cc6ea0e070615ee4405ddcb0e24c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        revision="25.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\okhttp-urlconnection-3.6.0-ad2aad1439a111cab84ba7c03648a8a6b5753e43.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-26f016dc2a56af407c4f5e0859e579d9fe240e05.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu\1.5.4\jars\classes.jar"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-7bad9144b9715b99a99ef091b7f331cf1405e45b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-a177bca77aeeb5e5f148225dbf1d2bd46d292b4a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-03aad90b0a07053b5ecc90f80a7ab256e68ee856.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-bd7fec81fed03e7aea9205cf101109b5476cee9e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-a9115404fb43403356366f13d7a76ae48142a3b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-2e9d0f01bb4562508d6f89a10cc9f06e549edc99.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\exploded-aar\testproject\react-native-navigation\unspecified\jars\classes.jar"
+        revision="25.0.1"
+        sha1="ab538d978c1fcab7f89c5f96ad75f1305d4f7e80">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-8b6e3470b19fd204082ddbcfadd76040523cb829.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-72d78b754c19d461300edec260e39948e0a4023a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-e1d89e3d42ae1f4057d86ab3198eb75adb8c5075.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\exploded-aar\org.webkit\android-jsc\r174650\jars\classes.jar"
+        revision="25.0.1"
+        sha1="12b885b3ed1fc74a51f671ad40867aa91271843d">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-b537b24f6e7d9c9ca2fd9c0c821cdb792f3812c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\okhttp-3.6.0-99e9b49005015740d18e799be2cb03e010669969.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\infer-annotations-4.0-970588d23426a3f2233eaa0ebe84fadaa51a741f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\library-2.4.0-22881f2403cd1b5dcaf0dcf707b41718e4e742c1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-0d1975d63114197e8a2beab8cb08eff740c574d3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-d6004352d8e18ac2455c9c7a32865514bdf9b7d7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-fa9e68a2da4aae1f23976ca1a9b8d39d686903f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-882ef8f49243d1ec3c5e713eae22e2814f8b9799.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
+        revision="25.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-31272bd8ef036d566a8533ccf9ff37860f402a2b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-5d93258e4019a731690c022852d3f6f379f85ba9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ilgaz\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\Ilgaz\Desktop\rn-projects\test-project\android\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\okio-1.13.0-3656fad0ec1752a3671be94f14236ab701f7b1f3.jar" />
+    </item>
+
+</items>
